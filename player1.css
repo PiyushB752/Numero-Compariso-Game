@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+img{
+    position: absolute;
+    left: 450px;
+    top: 200px;
+}
+button{
+    position: absolute;
+    left: 650px;
+    top: 550px;
+    height: 90px;
+    width: 220px;
+    border-radius: 15px;
+    font-size: 33px;
+    font-weight: 900;
+    background-color: black;
+    color: white;
+    border: 5px white dotted;
+}
